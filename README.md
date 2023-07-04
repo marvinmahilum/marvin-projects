@@ -81,3 +81,21 @@ The following are the projects that I have handled before. I made this md for em
 **Link:** Company App
 
 ---
+
+## Waddles
+
+![Screenshot 2023-07-04 105038 waddles](https://github.com/marvinmahilum/marvin-projects/assets/74521191/18e7eb55-02e9-4172-8933-d420e8a97ab3)
+
+**Description:** Baby Monitoring App (with Bluetooth)
+
+**Programming Language:** Objective-C & Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards, Alamofire, BLE
+
+**Role:** Continuous development and maintenance
+
+**Company:** Circuit Solutions, Incorporated
+
+---
