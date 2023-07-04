@@ -72,7 +72,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Architecture:** MVC
 
-**Stacks:** UIKit, Storyboards
+**Stacks:** UIKit, Storyboards, Alamofire
 
 **Role:** Started from scratch
 
