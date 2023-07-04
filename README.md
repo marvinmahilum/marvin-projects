@@ -14,7 +14,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
-**Role:** Continuous development and maintenance.
+**Role:** Continuous development and maintenance
 
 **Company:** CoreProc, Inc. + ATRAM
 
@@ -34,7 +34,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
-**Role:** Continuous development and maintenance.
+**Role:** Continuous development and maintenance
 
 **Company:** CoreProc, Inc. + My Loyalty
 
@@ -54,10 +54,30 @@ The following are the projects that I have handled before. I made this md for em
 
 **Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
-**Role:** Continuous development and maintenance.
+**Role:** Continuous development and maintenance
 
 **Company:** CoreProc, Inc. + Mansmith
 
 **Link:** https://apps.apple.com/ph/app/mansmith/id1456001727
+
+---
+
+## CSI Remote Timekeeping
+
+![Screenshot 2023-07-04 104037 csi timekeeping](https://github.com/marvinmahilum/marvin-projects/assets/74521191/ed916d53-142f-4534-abd4-67efac753e04)
+
+**Description:** CSI Remote Timekeeping App
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboards
+
+**Role:** Started from scratch
+
+**Company:** Circuit Solutions, Incorporated
+
+**Link:** Company App
 
 ---
