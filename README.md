@@ -10,12 +10,30 @@ The following are the projects that I have handled before. I made this md for em
 
 **Architecture:** MVVM-Coordinator
 
-**Stacks:** UIKit, Xib, RxSwift, Moya, Bitrise for CI/CD
+**Stacks:** UIKit, Xib, Moya/RxSwift, Bitrise for CI/CD
 
 **Role:** Continuous development and maintenance.
 
 **Company:** CoreProc, Inc.
 
 **Link:** https://apps.apple.com/ph/app/atram-prime-v2/id6444044920
+
+---
+
+## My Loyalty
+
+![Screenshot 2023-07-04 093052 my loyalty](https://github.com/marvinmahilum/marvin-projects/assets/74521191/af310112-536f-4da4-9241-ae50016923da)
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM-Coordinator
+
+**Stacks:** UIKit, Xib, Moya/RxSwift, Bitrise for CI/CD
+
+**Role:** Continuous development and maintenance.
+
+**Company:** CoreProc, Inc.
+
+**Link:** https://apps.apple.com/au/app/my-loyalty/id1491140099
 
 ---
