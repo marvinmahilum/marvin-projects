@@ -10,7 +10,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Architecture:** MVVM-Coordinator
 
-**Stacks:** UIKit, Xib, Moya/RxSwift, Bitrise for CI/CD
+**Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
 **Role:** Continuous development and maintenance.
 
@@ -28,7 +28,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Architecture:** MVVM-Coordinator
 
-**Stacks:** UIKit, Xib, Moya/RxSwift, Bitrise for CI/CD
+**Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
 **Role:** Continuous development and maintenance.
 
@@ -46,7 +46,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Architecture:** Service-Oriented Architecture-Coordinator
 
-**Stacks:** UIKit, Xib, Moya/RxSwift, Bitrise for CI/CD
+**Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
 **Role:** Continuous development and maintenance.
 
