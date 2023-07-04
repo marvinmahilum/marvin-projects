@@ -14,7 +14,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Role:** Continuous development and maintenance.
 
-**Company:** CoreProc, Inc.
+**Company:** CoreProc, Inc. + ATRAM
 
 **Link:** https://apps.apple.com/ph/app/atram-prime-v2/id6444044920
 
@@ -32,7 +32,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Role:** Continuous development and maintenance.
 
-**Company:** CoreProc, Inc.
+**Company:** CoreProc, Inc. + My Loyalty
 
 **Link:** https://apps.apple.com/au/app/my-loyalty/id1491140099
 
@@ -50,7 +50,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Role:** Continuous development and maintenance.
 
-**Company:** CoreProc, Inc.
+**Company:** CoreProc, Inc. + Mansmith
 
 **Link:** https://apps.apple.com/ph/app/mansmith/id1456001727
 
