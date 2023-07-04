@@ -37,3 +37,21 @@ The following are the projects that I have handled before. I made this md for em
 **Link:** https://apps.apple.com/au/app/my-loyalty/id1491140099
 
 ---
+
+## Mansmith
+
+![Screenshot 2023-07-04 093332 mansmith](https://github.com/marvinmahilum/marvin-projects/assets/74521191/80d0fd25-a96d-4a38-b020-5f09f27f1fe1)
+
+**Programming Language:** Swift
+
+**Architecture:** Service-Oriented Architecture-Coordinator
+
+**Stacks:** UIKit, Xib, Moya/RxSwift, Bitrise for CI/CD
+
+**Role:** Continuous development and maintenance.
+
+**Company:** CoreProc, Inc.
+
+**Link:** https://apps.apple.com/ph/app/mansmith/id1456001727
+
+---
