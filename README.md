@@ -92,7 +92,7 @@ The following are the projects that I have handled before. I made this md for em
 
 **Architecture:** MVC
 
-**Stacks:** UIKit, Storyboards, Alamofire, BLE
+**Stacks:** UIKit, Storyboards, Alamofire, BLE, WebSocket
 
 **Role:** Continuous development and maintenance
 
