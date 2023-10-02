@@ -1,6 +1,26 @@
 # # Marvin Mahilum - Projects
 
-The following are the projects that I have handled before. I made this md for employment.
+The following are the projects that I have handled before.
+
+## Komo by EastWest
+
+![komo](https://github.com/marvinmahilum/marvin-projects/assets/74521191/4db2c190-b492-4ce3-855c-487418f7997c)
+
+**Description:** Finance/Bank App
+
+**Programming Language:** Swift
+
+**Architecture:** MVC
+
+**Stacks:** UIKit, Storyboard, Alamofire, CryptoKit
+
+**Role:** Security Implementation
+
+**Company:** CoreProc, Inc. + Komo by EastWest
+
+**Link:** https://apps.apple.com/ph/app/komo-by-eastwest/id1450590168
+
+---
 
 ## ATRAM Prime
 
