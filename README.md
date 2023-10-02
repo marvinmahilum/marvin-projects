@@ -14,7 +14,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Storyboard, Alamofire, CryptoKit
 
-**Role:** Security Implementation
+**Role:** Specifically Security Implementation
 
 **Company:** CoreProc, Inc. + Komo by EastWest
 
