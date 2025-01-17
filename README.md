@@ -2,7 +2,7 @@
 
 The following are the projects that I have handled before.
 
-## Komo by EastWest
+## Komo by EastWest (Bank)
 
 ![komo](https://github.com/marvinmahilum/marvin-projects/assets/74521191/4db2c190-b492-4ce3-855c-487418f7997c)
 
