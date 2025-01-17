@@ -62,6 +62,26 @@ The following are the projects that I have handled before.
 
 ---
 
+## drybrush
+
+![Image](https://github.com/user-attachments/assets/c85930d1-d1e4-48b1-99b5-e60f8029beb0)
+
+**Description:** E-Commerce App - All products are Arts
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM-Coordinator
+
+**Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
+
+**Role:** Started from scratch
+
+**Company:** CoreProc, Inc.
+
+**Link:** To be deployed soon
+
+---
+
 ## My Loyalty
 
 ![Screenshot 2023-07-04 093052 my loyalty](https://github.com/marvinmahilum/marvin-projects/assets/74521191/af310112-536f-4da4-9241-ae50016923da)
