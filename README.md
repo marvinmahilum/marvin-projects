@@ -1,9 +1,5 @@
 # # Marvin Mahilum - Projects
 
-![Image](https://github.com/user-attachments/assets/c3f05b34-4dc9-4e0d-bd82-b7888f9cf8d1)
-
-![Image](https://github.com/user-attachments/assets/56fd71de-b05b-42cb-b0ee-593b6275044e)
-
 The following are the projects that I have handled before.
 
 ## Komo by EastWest
