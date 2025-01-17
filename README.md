@@ -42,26 +42,6 @@ The following are the projects that I have handled before.
 
 ---
 
-## My Loyalty
-
-![Screenshot 2023-07-04 093052 my loyalty](https://github.com/marvinmahilum/marvin-projects/assets/74521191/af310112-536f-4da4-9241-ae50016923da)
-
-**Description:** Digital Coffee App
-
-**Programming Language:** Swift
-
-**Architecture:** MVVM-Coordinator
-
-**Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
-
-**Role:** Continuous development and maintenance
-
-**Company:** CoreProc, Inc. + My Loyalty
-
-**Link:** https://apps.apple.com/au/app/my-loyalty/id1491140099
-
----
-
 ## Mansmith
 
 ![Screenshot 2023-07-04 093332 mansmith](https://github.com/marvinmahilum/marvin-projects/assets/74521191/80d0fd25-a96d-4a38-b020-5f09f27f1fe1)
@@ -79,6 +59,26 @@ The following are the projects that I have handled before.
 **Company:** CoreProc, Inc. + Mansmith
 
 **Link:** https://apps.apple.com/ph/app/mansmith/id1456001727
+
+---
+
+## My Loyalty
+
+![Screenshot 2023-07-04 093052 my loyalty](https://github.com/marvinmahilum/marvin-projects/assets/74521191/af310112-536f-4da4-9241-ae50016923da)
+
+**Description:** Digital Coffee App
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM-Coordinator
+
+**Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
+
+**Role:** Continuous development and maintenance
+
+**Company:** CoreProc, Inc. + My Loyalty
+
+**Link:** https://apps.apple.com/au/app/my-loyalty/id1491140099
 
 ---
 
