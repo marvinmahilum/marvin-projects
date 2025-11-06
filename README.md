@@ -2,6 +2,26 @@
 
 The following are the projects that I have handled before.
 
+## Cebu Pacific
+
+<img width="1571" height="648" alt="CebuPacific" src="https://github.com/user-attachments/assets/f970e11a-8c65-429f-9c3f-0f99abc5ebc1" />
+
+**Description/Background:** Cebu Pacific is the largest airline in the Philippines, offering low fares all year round to over 60 destinations in Asia, Australia and the Middle East.
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM
+
+**Stacks:** UIKit, URLSession, RxSwift, Combine, SnapKit, RealmDB
+
+**Role:** Mobile iOS Developer - Continuous development by defining, designing, and shipping new features and maintenance.
+
+**Company:** Alliance Software Inc. + Cebu Pacific Air
+
+**Link:** https://apps.apple.com/ph/app/cebu-pacific/id1210712639
+
+---
+
 ## Komo by EastWest (Bank)
 
 ![komo](https://github.com/marvinmahilum/marvin-projects/assets/74521191/4db2c190-b492-4ce3-855c-487418f7997c)
