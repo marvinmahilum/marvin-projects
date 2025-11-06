@@ -26,7 +26,7 @@ The following are the projects that I have handled before.
 
 ## M88 Mansion
 
-<img width="3896" height="1421" alt="m88 mansion" src="https://github.com/user-attachments/assets/6afbce2c-1ec3-47a3-87ea-3fb02440faa7" />
+<img width="3870" height="1352" alt="m88 mansion" src="https://github.com/user-attachments/assets/ce0909fd-e01b-4ab2-bc90-4303eb72ea39" />
 
 **Background:** An online gaming platform that offers a variety of betting and casino games.
 
