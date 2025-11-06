@@ -46,6 +46,27 @@ The following are the projects that I have handled before.
 
 ---
 
+## Bida
+
+<img width="1325" height="418" alt="Screenshot 2024-07-25 221742" src="https://github.com/user-attachments/assets/1600c5a0-aaa4-4b38-93c4-3b085b17eb78" />
+<img width="1324" height="416" alt="Screenshot 2024-07-25 221848" src="https://github.com/user-attachments/assets/e803cc9b-be34-4c20-aa49-b955c07ad9a4" />
+
+**Background:** Bida is a management app of Philip Morris Fortune Tobacco Company(PMFTC) employees for their customers.
+
+**Type:** Internal App
+
+**Programming Language:** Swift
+
+**Architecture:**  MVVM-C
+
+**Stacks:** UIKit, Alamofire, Moya, RxSwift, Disk, Bitrise for CI/CD
+
+**Role:** Mobile iOS Developer - Continuous development by defining, designing, and shipping new features and maintenance.
+
+**Company:** CoreProc, Inc. + PMFTC Inc.
+
+---
+
 ## ATRAM Prime
 
 ![Screenshot 2023-07-04 092747 atram](https://github.com/marvinmahilum/marvin-projects/assets/74521191/edc90a0a-191b-4f00-9b7a-d3515f6a9412)
