@@ -4,11 +4,11 @@ The following are the projects that I have handled before.
 
 ## Cebu Pacific
 
-<img width="1571" height="648" alt="CebuPacific" src="https://github.com/user-attachments/assets/f970e11a-8c65-429f-9c3f-0f99abc5ebc1" />
+<img width="1572" height="663" alt="CebuPacific" src="https://github.com/user-attachments/assets/6b0f73ad-668d-43a5-995d-81cfc7964432" />
 
 **Background:** Cebu Pacific is the largest airline in the Philippines, offering low fares all year round to over 60 destinations in Asia, Australia and the Middle East.
 
-**Description:** Flight Booking App
+**Type:** Flight Booking App
 
 **Programming Language:** Swift
 
@@ -30,7 +30,7 @@ The following are the projects that I have handled before.
 
 **Background:** Komo is EastWest's exclusively digital banking service that can help you save, grow, and manage your money faster.
 
-**Description:** Finance/Bank App
+**Type:** Finance/Bank App
 
 **Programming Language:** Swift
 
@@ -50,7 +50,9 @@ The following are the projects that I have handled before.
 
 ![Screenshot 2023-07-04 092747 atram](https://github.com/marvinmahilum/marvin-projects/assets/74521191/edc90a0a-191b-4f00-9b7a-d3515f6a9412)
 
-**Description:** Investment App
+**Background:** ATRAM Prime is an investment app.
+
+**Type:** Finance/Investment App
 
 **Programming Language:** Swift
 
@@ -58,7 +60,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
-**Role:** Continuous development and maintenance
+**Role:** Mobile iOS Developer - Continuous development by defining, designing, and shipping new features and maintenance.
 
 **Company:** CoreProc, Inc. + ATRAM
 
@@ -70,7 +72,9 @@ The following are the projects that I have handled before.
 
 ![Screenshot 2023-07-04 093332 mansmith](https://github.com/marvinmahilum/marvin-projects/assets/74521191/80d0fd25-a96d-4a38-b020-5f09f27f1fe1)
 
-**Description:** Mansmith Conferences and Seminars App
+**Background:** With the Mansmith mobile app, you can access and stay updated on Mansmith events anywhere, such as conferences, seminars, awards, and other events.
+
+**Type:** Mansmith Conferences and Seminars App
 
 **Programming Language:** Swift
 
@@ -78,7 +82,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
-**Role:** Continuous development and maintenance
+**Role:** Mobile iOS Developer - Continuous development by defining, designing, and shipping new features and maintenance.
 
 **Company:** CoreProc, Inc. + Mansmith
 
@@ -90,7 +94,9 @@ The following are the projects that I have handled before.
 
 ![Image](https://github.com/user-attachments/assets/c85930d1-d1e4-48b1-99b5-e60f8029beb0)
 
-**Description:** E-Commerce App - All products are Arts
+**Background:** E-commerce app - All products are art-related such as paintings, sculptures, and upcoming art exhibits. The Artist Profile also showcases all the arts of every artist.
+
+**Type:** E-Commerce App - All products are Arts
 
 **Programming Language:** Swift
 
@@ -98,7 +104,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
-**Role:** Started from scratch
+**Role:** Mobile iOS Developer - Started from scratch
 
 **Company:** CoreProc, Inc.
 
@@ -110,7 +116,9 @@ The following are the projects that I have handled before.
 
 ![Screenshot 2023-07-04 093052 my loyalty](https://github.com/marvinmahilum/marvin-projects/assets/74521191/af310112-536f-4da4-9241-ae50016923da)
 
-**Description:** Digital Coffee App
+**Background:** Discover coffee shops around the user’s location (Australian-based app) and collect exclusive digital coupons to enjoy free drinks and discounts.
+
+**Type:** Digital Coffee App
 
 **Programming Language:** Swift
 
@@ -118,7 +126,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Xib, Alamofire, Moya/RxSwift, Bitrise for CI/CD
 
-**Role:** Continuous development and maintenance
+**Role:** Mobile iOS Developer - Continuous development by defining, designing, and shipping new features and maintenance.
 
 **Company:** CoreProc, Inc. + My Loyalty
 
@@ -130,7 +138,9 @@ The following are the projects that I have handled before.
 
 ![Screenshot 2023-07-04 104037 csi timekeeping](https://github.com/marvinmahilum/marvin-projects/assets/74521191/ed916d53-142f-4534-abd4-67efac753e04)
 
-**Description:** CSI Remote Timekeeping App
+**Background:** CSI Remote Timekeeping is the company’s timekeeping app for remote work setup. The app includes timein and time-out information, as well as location information.
+
+**Type:** CSI Remote Timekeeping App
 
 **Programming Language:** Swift
 
@@ -138,7 +148,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Storyboards, Alamofire
 
-**Role:** Started from scratch
+**Role:** Mobile iOS Developer - Started from scratch
 
 **Company:** Circuit Solutions, Incorporated
 
@@ -150,7 +160,9 @@ The following are the projects that I have handled before.
 
 ![Screenshot 2023-07-04 105038 waddles](https://github.com/marvinmahilum/marvin-projects/assets/74521191/18e7eb55-02e9-4172-8933-d420e8a97ab3)
 
-**Description:** Baby Monitoring App (with Bluetooth)
+**Background:** Waddles (The Smart Penguin) is a baby monitoring app that uses BLE (Bluetooth Low Energy) to monitor the baby’s room temperature and air quality. The app also offers features like playing sounds like lullabies, enabling two-way communication between the app and the smart penguin so parents can talk to their baby even when they’re away, and providing real-time monitoring through a camera.
+
+**Type:** Baby Monitoring App (with Bluetooth)
 
 **Programming Language:** Objective-C & Swift
 
@@ -158,7 +170,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Storyboards, Alamofire, BLE, WebSocket
 
-**Role:** Continuous development and maintenance
+**Role:** Mobile iOS Developer - Continuous development by defining, designing, and shipping new features and maintenance.
 
 **Company:** Circuit Solutions, Incorporated
 
