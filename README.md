@@ -6,7 +6,9 @@ The following are the projects that I have handled before.
 
 <img width="1571" height="648" alt="CebuPacific" src="https://github.com/user-attachments/assets/f970e11a-8c65-429f-9c3f-0f99abc5ebc1" />
 
-**Description/Background:** Cebu Pacific is the largest airline in the Philippines, offering low fares all year round to over 60 destinations in Asia, Australia and the Middle East.
+**Background:** Cebu Pacific is the largest airline in the Philippines, offering low fares all year round to over 60 destinations in Asia, Australia and the Middle East.
+
+**Description:** Flight Booking App
 
 **Programming Language:** Swift
 
@@ -26,6 +28,8 @@ The following are the projects that I have handled before.
 
 ![komo](https://github.com/marvinmahilum/marvin-projects/assets/74521191/4db2c190-b492-4ce3-855c-487418f7997c)
 
+**Background:** Komo is EastWest's exclusively digital banking service that can help you save, grow, and manage your money faster.
+
 **Description:** Finance/Bank App
 
 **Programming Language:** Swift
@@ -34,7 +38,7 @@ The following are the projects that I have handled before.
 
 **Stacks:** UIKit, Storyboard, Alamofire, CryptoKit
 
-**Role:** Specifically Security Implementation
+**Role:** Mobile iOS Developer - Specifically Security Implementation
 
 **Company:** CoreProc, Inc. + Komo by EastWest
 
