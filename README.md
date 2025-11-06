@@ -24,6 +24,26 @@ The following are the projects that I have handled before.
 
 ---
 
+## M88 Mansion
+
+<img width="3896" height="1421" alt="m88 mansion" src="https://github.com/user-attachments/assets/6afbce2c-1ec3-47a3-87ea-3fb02440faa7" />
+
+**Background:** An online gaming platform that offers a variety of betting and casino games.
+
+**Type:** Casino betting App
+
+**Programming Language:** Swift
+
+**Architecture:** MVVM-C
+
+**Stacks:** Swift(UIKit and SwiftUI), Moya, RxSwift, Alamofire, SnapKit, IGListKit, CoreData, Bitrise for CI/CD
+
+**Role:** Mobile iOS Developer - Continuous development by defining, designing, and shipping new features and maintenance.
+
+**Company:** Core-X Design Inc + M88 Mansion
+
+---
+
 ## Komo by EastWest (Bank)
 
 ![komo](https://github.com/marvinmahilum/marvin-projects/assets/74521191/4db2c190-b492-4ce3-855c-487418f7997c)
